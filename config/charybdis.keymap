@@ -127,8 +127,8 @@
         prog_sym_layer {
             display-name = "Prog Sym";
             bindings = <
-  &DBL_EQL  &TRPL_EQL  &NOT_EQL       &GT_EQL           &trans              &trans  &LOG_AND   &LOG_OR    &INCLUDE    &trans
-  &PRN      &BRC       &BKT           &ANGL             &trans           &trans  &ARROW_OP  &ARROW_FN  &DBL_QT     &trans
+  &trans  &trans  &trans      &trans         &trans              &trans  &LOG_AND   &LOG_OR    &INCLUDE    &trans
+  &PRN      &BRC       &BKT           &ANGL             &trans           &trans  &ARROW_OP  &ARROW_FN  &trans     &trans
   &DEC      &INC       &trans  &trans &trans    &trans  &LSFT_OP   &RSFT_OP   &UPROPERTY  &UFUNCTION
                        &trans         &trans            &trans               &trans  &trans
             >;
